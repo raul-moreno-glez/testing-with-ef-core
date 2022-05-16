@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J0qSUGOB9ZF8VhIUd7C0VJI6qTsRURzt+eAHGNLGVzCWAic/bsYuwIplbu0rlCnYUKEzNzFnLlRWNUhs1BnGtw==",
+  "dgSpecHash": "ufjmqct+RvELgj9YxukupopjnLCdwtrRKoNyFRUVgQMF06FqXDVyeZX3uSOmENHKh6PcloQQ4ChZy0d8Its/tQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\RaGonzalez\\Box\\My Documents\\.NET Chapter\\Testing EF Core\\CourseManager\\CourseManager.API\\CourseManager.API.csproj",
+  "projectFilePath": "C:\\Users\\RaGonzalez\\source\\repos\\source\\testing-with-ef-core\\CourseManager.API\\CourseManager.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RaGonzalez\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\RaGonzalez\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

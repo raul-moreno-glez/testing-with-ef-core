@@ -2290,11 +2290,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RaGonzalez\\Box\\My Documents\\.NET Chapter\\Testing EF Core\\CourseManager\\CourseManager.API\\CourseManager.API.csproj",
+      "projectUniqueName": "C:\\Users\\RaGonzalez\\source\\repos\\source\\testing-with-ef-core\\CourseManager.API\\CourseManager.API.csproj",
       "projectName": "CourseManager.API",
-      "projectPath": "C:\\Users\\RaGonzalez\\Box\\My Documents\\.NET Chapter\\Testing EF Core\\CourseManager\\CourseManager.API\\CourseManager.API.csproj",
+      "projectPath": "C:\\Users\\RaGonzalez\\source\\repos\\source\\testing-with-ef-core\\CourseManager.API\\CourseManager.API.csproj",
       "packagesPath": "C:\\Users\\RaGonzalez\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RaGonzalez\\Box\\My Documents\\.NET Chapter\\Testing EF Core\\CourseManager\\CourseManager.API\\obj\\",
+      "outputPath": "C:\\Users\\RaGonzalez\\source\\repos\\source\\testing-with-ef-core\\CourseManager.API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\RaGonzalez\\AppData\\Roaming\\NuGet\\NuGet.Config",
